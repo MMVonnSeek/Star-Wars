@@ -74,7 +74,7 @@ chattans = []
 
 for _ in range(5):   
     chattan = Max()
-    chattan.color("brown")
+    chattan.color("blue")
     chattan.shape("arrow")
 
     chattan.speed  = random.randint(2, 3)/50
