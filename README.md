@@ -9,3 +9,6 @@ import math
 import random
 
 ![Star_Wars](https://user-images.githubusercontent.com/89359847/176565913-298ff5d9-d60f-4d63-a52d-8c22d8b73859.png)
+
+
+![octocat-1688904079298](https://github.com/MMVonnSeek/Star-Wars/assets/89359847/de10973d-244d-48aa-a509-f7a61b820070)
